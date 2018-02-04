@@ -1,0 +1,25 @@
+body {
+  border-style: solid;
+  border-top-width: 3px;
+  border-left-width: 3px;
+  border-right-width: 3px;
+  border-bottom-width: 3px;
+  border-color: black;
+  background-color: oldlace;
+  padding: 10px;
+}
+
+h2, h3, h4 {
+  font-size: 15px;
+  border: 2px solid;
+  border-color: black;
+}
+
+
+p{
+  font-size: 13px;
+}
+
+ul, ol {
+  font-size: 14px;
+}
